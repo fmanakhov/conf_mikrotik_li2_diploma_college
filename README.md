@@ -116,6 +116,7 @@
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаСтруктурнаяСКС/СхемаСтруктурнаяСКС-Лицей.png) 
 
 Интернат:
+
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаСтруктурнаяСКС/СхемаСтруктурнаяСКС-Интернат.png) 
 -   План расположения оборудования. Кабельные трассы; 
 
@@ -130,6 +131,7 @@
 Интернат:
 
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/Интернат.png)
+
 -   Схема установки оборудования. 
 
 Лицей:
