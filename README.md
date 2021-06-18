@@ -111,8 +111,30 @@
 ## Структурированная кабельная система ЛВС
 СКС строится в трёх этапах:
 -   Схема структурная СКС;
+
+Лицей:
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаСтруктурнаяСКС/СхемаСтруктурнаяСКС-Лицей.png) 
+
+Интернат:
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаСтруктурнаяСКС/СхемаСтруктурнаяСКС-Интернат.png) 
 -   План расположения оборудования. Кабельные трассы; 
+
+Лицей:
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/1-1.png)
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/1-2.png)
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/1-3.png)
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/2-1.png)
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/2-2.png)
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/2-3.png)
+
+Интернат:
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/Интернат.png)
 -   Схема установки оборудования. 
+
+Лицей:
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаУстановкиОборудования/СхемаУстановкиОборудования-Лицей.png)
+
+Интернат:
+![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаУстановкиОборудования/СхемаУстановкиОборудования-Интернат.png)
 
 СКС был построек с помощью программы «draw.io».
