@@ -128,6 +128,7 @@
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/2-3.png)
 
 Интернат:
+
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/ПланРасположенияОборудования.КабельныеТрассы/Интернат.png)
 -   Схема установки оборудования. 
 
@@ -135,6 +136,7 @@
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаУстановкиОборудования/СхемаУстановкиОборудования-Лицей.png)
 
 Интернат:
+
 ![Alt](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/СКС/Картинки/СхемаУстановкиОборудования/СхемаУстановкиОборудования-Интернат.png)
 
 СКС был построек с помощью программы «draw.io».
