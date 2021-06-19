@@ -706,4 +706,4 @@ b. Установить на оборудование или компьютер 
 
 ## 1.16 Демонстрация
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l_TqQgAVB14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://github.com/fmanakhov/conf_mikrotik_li2_diploma_college/blob/main/youtube.png)](https://www.youtube.com/watch?v=l_TqQgAVB14)
